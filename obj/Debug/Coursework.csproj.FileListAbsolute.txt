@@ -1,0 +1,37 @@
+D:\Навчання\ПРОГРАМУВАННЯ\Курсова робота\Курсова робота 2023\Coursework\bin\Debug\Coursework.exe.config
+D:\Навчання\ПРОГРАМУВАННЯ\Курсова робота\Курсова робота 2023\Coursework\bin\Debug\Coursework.exe
+D:\Навчання\ПРОГРАМУВАННЯ\Курсова робота\Курсова робота 2023\Coursework\bin\Debug\Coursework.pdb
+D:\Навчання\ПРОГРАМУВАННЯ\Курсова робота\Курсова робота 2023\Coursework\obj\Debug\Coursework.csproj.AssemblyReference.cache
+D:\Навчання\ПРОГРАМУВАННЯ\Курсова робота\Курсова робота 2023\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+D:\Навчання\ПРОГРАМУВАННЯ\Курсова робота\Курсова робота 2023\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+D:\Навчання\ПРОГРАМУВАННЯ\Курсова робота\Курсова робота 2023\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+D:\Навчання\ПРОГРАМУВАННЯ\Курсова робота\Курсова робота 2023\Coursework\obj\Debug\Coursework.exe
+D:\Навчання\ПРОГРАМУВАННЯ\Курсова робота\Курсова робота 2023\Coursework\obj\Debug\Coursework.pdb
+D:\Навчання\ПРОГРАМУВАННЯ\Курсова робота\Курсова робота 2023\Coursework\obj\Debug\Coursework.Form1.resources
+D:\Навчання\ПРОГРАМУВАННЯ\Курсова робота\Курсова робота 2023\Coursework\obj\Debug\Coursework.Login.resources
+D:\Навчання\ПРОГРАМУВАННЯ\Курсова робота\Курсова робота 2023\Coursework\obj\Debug\Coursework.Main.resources
+D:\Навчання\ПРОГРАМУВАННЯ\Курсова робота\Курсова робота 2023\Coursework\obj\Debug\Coursework.Add.resources
+D:\Навчання\ПРОГРАМУВАННЯ\Курсова робота\Курсова робота 2023\Coursework\obj\Debug\Coursework.csproj.SuggestedBindingRedirects.cache
+D:\Навчання\ПРОГРАМУВАННЯ\Курсова робота\Курсова робота 2023\Coursework\obj\Debug\Coursework.FrontMain.resources
+D:\Навчання\ПРОГРАМУВАННЯ\Курсова робота\Курсова робота 2023\Coursework\obj\Debug\Coursework.Readers.resources
+D:\Навчання\ПРОГРАМУВАННЯ\Курсова робота\Курсова робота 2023\Coursework\obj\Debug\Coursework.Add_readers.resources
+D:\Навчання\ПРОГРАМУВАННЯ\Курсова робота\Курсова робота 2023\Coursework\obj\Debug\Coursework.Rent.resources
+D:\Навчання\ПРОГРАМУВАННЯ\Курсова робота\Курсова робота 2023\Coursework\obj\Debug\Coursework.Add_Rent.resources
+D:\Навчання\Навчання Аня\Коледж\ПРОГРАМУВАННЯ\Курсова робота\Курсова робота 2023\Coursework\bin\Debug\Coursework.exe.config
+D:\Навчання\Навчання Аня\Коледж\ПРОГРАМУВАННЯ\Курсова робота\Курсова робота 2023\Coursework\bin\Debug\Coursework.exe
+D:\Навчання\Навчання Аня\Коледж\ПРОГРАМУВАННЯ\Курсова робота\Курсова робота 2023\Coursework\bin\Debug\Coursework.pdb
+D:\Навчання\Навчання Аня\Коледж\ПРОГРАМУВАННЯ\Курсова робота\Курсова робота 2023\Coursework\obj\Debug\Coursework.csproj.AssemblyReference.cache
+D:\Навчання\Навчання Аня\Коледж\ПРОГРАМУВАННЯ\Курсова робота\Курсова робота 2023\Coursework\obj\Debug\Coursework.Add.resources
+D:\Навчання\Навчання Аня\Коледж\ПРОГРАМУВАННЯ\Курсова робота\Курсова робота 2023\Coursework\obj\Debug\Coursework.Add_readers.resources
+D:\Навчання\Навчання Аня\Коледж\ПРОГРАМУВАННЯ\Курсова робота\Курсова робота 2023\Coursework\obj\Debug\Coursework.Add_Rent.resources
+D:\Навчання\Навчання Аня\Коледж\ПРОГРАМУВАННЯ\Курсова робота\Курсова робота 2023\Coursework\obj\Debug\Coursework.Form1.resources
+D:\Навчання\Навчання Аня\Коледж\ПРОГРАМУВАННЯ\Курсова робота\Курсова робота 2023\Coursework\obj\Debug\Coursework.FrontMain.resources
+D:\Навчання\Навчання Аня\Коледж\ПРОГРАМУВАННЯ\Курсова робота\Курсова робота 2023\Coursework\obj\Debug\Coursework.Login.resources
+D:\Навчання\Навчання Аня\Коледж\ПРОГРАМУВАННЯ\Курсова робота\Курсова робота 2023\Coursework\obj\Debug\Coursework.Main.resources
+D:\Навчання\Навчання Аня\Коледж\ПРОГРАМУВАННЯ\Курсова робота\Курсова робота 2023\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+D:\Навчання\Навчання Аня\Коледж\ПРОГРАМУВАННЯ\Курсова робота\Курсова робота 2023\Coursework\obj\Debug\Coursework.Readers.resources
+D:\Навчання\Навчання Аня\Коледж\ПРОГРАМУВАННЯ\Курсова робота\Курсова робота 2023\Coursework\obj\Debug\Coursework.Rent.resources
+D:\Навчання\Навчання Аня\Коледж\ПРОГРАМУВАННЯ\Курсова робота\Курсова робота 2023\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+D:\Навчання\Навчання Аня\Коледж\ПРОГРАМУВАННЯ\Курсова робота\Курсова робота 2023\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+D:\Навчання\Навчання Аня\Коледж\ПРОГРАМУВАННЯ\Курсова робота\Курсова робота 2023\Coursework\obj\Debug\Coursework.exe
+D:\Навчання\Навчання Аня\Коледж\ПРОГРАМУВАННЯ\Курсова робота\Курсова робота 2023\Coursework\obj\Debug\Coursework.pdb
